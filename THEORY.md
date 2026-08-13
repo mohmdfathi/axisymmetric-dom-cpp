@@ -84,7 +84,7 @@ The output is a Tecplot-style text file with `r`, `z`, and `Qr` columns.
 
 ## Reference
 
-M. E. Fathi Azarkhavarani, R. Hosseini Abardeh, and M. Rahmani,
+M. Fathi, R. Hosseini, and M. Rahmani,
 “Calculations of non-gray gas radiative heat transfer by coupling the discrete
 ordinates method with the Leckner model in 3D rectangular enclosures,”
 *Heat and Mass Transfer* (2016).
