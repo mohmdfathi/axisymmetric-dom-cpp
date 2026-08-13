@@ -1,2 +1,4 @@
 *.h linguist-language=C++
 *.cpp linguist-language=C++
+
+*.ip linguist-detectable=false
