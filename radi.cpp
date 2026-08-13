@@ -8,9 +8,13 @@
   Simple axisymmetric discrete-ordinates radiation solver.
 
   The organization intentionally resembles the original Fortran program used 
-  in my previous publication in Heat and Mass transfer journal:
-  global fixed-size arrays, ordinary functions, and explicit nested loops.
-  Model: gray, absorbing/emitting, non-scattering medium with S10 quadrature.
+  in my previous publication in Heat and Mass transfer journal.
+
+  M. Fathi, R. Hosseini, and M. Rahmani,
+  “Calculations of non-gray gas radiative heat transfer by coupling the discrete
+   ordinates method with the Leckner model in 3D rectangular enclosures,”
+   *Heat and Mass Transfer* (2016).
+
 */
 
 constexpr int mmax = 10, lmax = 10;
